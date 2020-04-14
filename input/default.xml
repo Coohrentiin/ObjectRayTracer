@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<shapes>
+	<scene w="300" h="300" cam="-600" resolution="2"/>
+	<sphere x="150" y="500" z="150" r="255" g="0" b="0" radius="100" alpha="0"/>
+	<sphere x="0" y="500" z="150" r="0" g="255" b="0" radius="100" alpha="1.3"/>
+	<surface x="150" y="500" z="300" r="100" g="255" b="0" u="0" v="0" w="-1" alpha="0" hasText="1" xsize="679" ysize="960" nchannel="3" path="input/menuGala.jpg"/>
+	<light x="150" y="100" z="100" r="0" g="255" b="0" intensity="0"/>
+</shapes>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<Scene>
+	<Parameters>
+		<Width>100</Width>
+		<Height>100</Height>
+		<Camera>
+			<Position>
+				<x>0</x>
+				<y>-600</y>
+				<z>0</z>
+			</Position>	
+		</Camera>
+
+		<Light>
+			<Position>
+				<x> 100</x>
+				<y> 0</y>
+				<z> 100</z>
+			</Position>	
+
+			<Color>
+				<r> 255</r>
+				<g> 255</g>
+				<b> 255</b>
+			</Color>
+
+			<Intensity> 1 </Intensity>
+
+		</Light>	
+	</Parameters>
+
+	<Objects>
+		<Sphere>
+			<Position>
+				<x> 0</x>
+				<y> 0</y>
+				<z> 0</z>
+			</Position>	
+
+			<Radius> 100 </Radius>
+
+			<Color>
+				<r> 255</r>
+				<g> 0</g>
+				<b> 0</b>
+			</Color>
+
+			<Transparency> 1 </Transparency>
+			<Reflexion> 1 </Reflexion>
+			<Refraction> 1 </Refraction>
+		</Sphere>
+	</Objects>
+
+</Scene>
